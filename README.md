@@ -39,4 +39,4 @@ pip install flet
 Execute o arquivo principal:
 python main.py
 
-Esse projeto já tá com cara forte de GitHub 💪
+
