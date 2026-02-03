@@ -37,11 +37,6 @@ pip install flet
 
 
 Execute o arquivo principal:
-
 python main.py
-
-
-
-ou ajustar o README pra vários cards/personagens
 
 Esse projeto já tá com cara forte de GitHub 💪
